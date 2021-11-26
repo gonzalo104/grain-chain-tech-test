@@ -13,3 +13,5 @@ Este proyecto fue desarrollado con NodeJS.
 Ejecuta el servidor en el modo de desarrollo.<br />
 abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
+## cargar matriz al programa
+![ScreenShot](/img/1.png)
